@@ -1,0 +1,12 @@
+anndata==0.13.3.post0
+munkres==1.1.4
+numpy==2.5.3
+pandas==3.0.6
+pytorch_lightning==2.6.1
+rpy2==3.6.6
+rpy2_rinterface==3.6.5
+rpy2_robjects==3.6.4
+scanpy==1.12.4
+scikit_learn==1.9.1
+scipy==1.18.1
+torch==2.4.0+cu124
