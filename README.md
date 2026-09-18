@@ -10,3 +10,5 @@ conda create -n spMAE python=3.10.20
 conda activate spMAE
 pip install -r requirements.txt
 ```
+## Tutorial
+We provide detailed tutorials on applying spMAE in the Notebooks folder.
