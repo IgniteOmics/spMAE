@@ -12,3 +12,6 @@ pip install -r requirements.txt
 ```
 ## Tutorial
 We provide detailed tutorials on applying spMAE in the Notebooks folder.
+
+## Data
+All data used in the experiments are publicly available on https://zenodo.org/records/22907431.
